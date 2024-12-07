@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumSinHonBuBu';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSinHonBuBu/NanumSinHonBuBu.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSinHonBuBu/NanumSinHonBuBu.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSinHonBuBu/NanumSinHonBuBu.ttf') format('truetype');
+}
